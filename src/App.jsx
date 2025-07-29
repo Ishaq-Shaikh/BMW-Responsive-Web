@@ -1,6 +1,6 @@
-import Header from "./components/Layout/Header"
+import Header from "./components/layout/Header"
 import Models from "./components/pages/Models"
-import Navbar from "./components/Layout/Navbar"
+import Navbar from "./components/layout/Navbar"
 import Testdrive from "./components/pages/Testdrive"
 
 function App() {
